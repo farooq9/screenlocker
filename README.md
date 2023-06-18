@@ -8,7 +8,7 @@ The message displayed by the ransomware typically includes instructions on how t
 # About
 The above displayed image is a demo of how the ransomeware looks after executing,
 the message displayed can be altered accordingly.
-It will lock all the keys on keyboard, the pin can entered by clicking the buttons with mouse.
+It will lock all the keys on the keyboard and the pin can entered by clicking the buttons with mouse.
 
 # Usage
 To Convert the .py file to .exe run the below command in PowerShell
