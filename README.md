@@ -5,6 +5,10 @@ The message displayed by the ransomware typically includes instructions on how t
 
 <img width="754" alt="screenlocker" src="https://github.com/farooq9/screenlocker/assets/88651754/a42f0aff-1f0c-4ac9-9329-e6677e054546">
 
+# About
+The above displayed image is a demo of how the ransomeware looks after executing,
+the message displayed can be altered accordingly.
+
 # Usage
 To Convert the .py file to .exe run the below command in PowerShell
 pyinstaller -F -w screenlocker.py
@@ -17,3 +21,4 @@ pip install -r requirements.txt
 
 # Warning
 Never use this for Fun activities
+This is created only for education purpose to gain knowledge on how the malware work. 
