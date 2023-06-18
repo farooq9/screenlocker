@@ -4,3 +4,16 @@ A screen locker ransomware is a type of malicious software (malware) that infect
 The message displayed by the ransomware typically includes instructions on how to pay a ransom to the attacker in order to regain access to the computer. The ransom is usually demanded in a cryptocurrency such as Bitcoin, which makes it difficult to trace the payment back to the attacker and get the key.
 
 <img width="754" alt="screenlocker" src="https://github.com/farooq9/screenlocker/assets/88651754/a42f0aff-1f0c-4ac9-9329-e6677e054546">
+
+# Usage
+To Convert the .py file to .exe run the below command in PowerShell
+pyinstaller -F -w screenlocker.py
+You will find your new screenlocker.exe in dist folder.
+Before creating exe file change your password from 12345
+
+# requirements
+keyboard & pyinstaller
+pip install -r requirements.txt
+
+# Warning
+Never use this for Fun activities
